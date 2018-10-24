@@ -1,0 +1,258 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python36_64\python.exe" C:/apollo/models/official/mnist/mnist_future.py
+2018-10-24 22:29:16.058826: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:16.198598: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:16.198868: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:16.597319: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:16.597486: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:16.597597: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:16.597779: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[1.000000e+00 5.745697e-30]]
+C:\tmp\mnist_images\validate\181005_063_0.jpg
+2018-10-24 22:29:20.217380: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:20.366524: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:20.366787: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:20.774368: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:20.774533: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:20.774642: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:20.774821: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[1.0000000e+00 2.6311153e-10]]
+C:\tmp\mnist_images\validate\181005_064_0.jpg
+2018-10-24 22:29:24.475171: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:24.619097: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:24.619361: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:25.015398: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:25.015562: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:25.015673: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:25.015861: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[1.00000000e+00 1.10654675e-26]]
+C:\tmp\mnist_images\validate\181005_065_0.jpg
+2018-10-24 22:29:28.677971: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:28.827684: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:28.827955: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:29.232094: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:29.232262: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:29.232373: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:29.232554: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[0.49255595 0.507444  ]]
+C:\tmp\mnist_images\validate\181005_066_0.jpg
+2018-10-24 22:29:32.832970: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:32.977235: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:32.977500: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:33.374360: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:33.374524: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:33.374635: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:33.374814: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[0. 1.]]
+C:\tmp\mnist_images\validate\181005_067_0.jpg
+2018-10-24 22:29:36.987753: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:37.137973: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:37.138236: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:37.545278: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:37.545443: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:37.545552: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:37.545731: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[1.3611772e-37 1.0000000e+00]]
+C:\tmp\mnist_images\validate\181005_068_0.jpg
+2018-10-24 22:29:41.189211: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:41.318638: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:41.318904: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:41.720657: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:41.720820: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:41.720931: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:41.721108: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[1.0000000e+00 9.1519144e-29]]
+C:\tmp\mnist_images\validate\181005_069_0.jpg
+2018-10-24 22:29:45.387894: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:45.525090: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:45.525354: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:45.945423: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:45.945585: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:45.945693: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:45.945870: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[9.9938285e-01 6.1716186e-04]]
+C:\tmp\mnist_images\validate\181005_070_0.jpg
+2018-10-24 22:29:49.528671: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:49.673021: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:49.673286: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:50.085661: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:50.085823: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:50.085935: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:50.086117: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[1. 0.]]
+C:\tmp\mnist_images\validate\181005_071_0.jpg
+2018-10-24 22:29:53.698422: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:53.838756: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:53.839032: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:54.251697: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:54.251861: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:54.251967: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:54.252153: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[0. 1.]]
+C:\tmp\mnist_images\validate\181005_072_0.jpg
+2018-10-24 22:29:57.883637: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:29:58.026287: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:29:58.026546: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:29:58.434655: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:29:58.434819: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:29:58.434929: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:29:58.435111: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[0. 1.]]
+C:\tmp\mnist_images\validate\181005_073_0.jpg
+2018-10-24 22:30:02.198157: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:30:02.333232: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:30:02.333501: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:30:02.771912: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:30:02.772113: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:30:02.772233: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:30:02.772420: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[9.9926192e-01 7.3808274e-04]]
+C:\tmp\mnist_images\validate\181005_074_0.jpg
+2018-10-24 22:30:06.500962: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:30:06.628461: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:30:06.628729: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:30:07.040720: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:30:07.040885: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:30:07.040997: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:30:07.041180: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[1. 0.]]
+C:\tmp\mnist_images\validate\181005_075_0.jpg
+2018-10-24 22:30:10.768976: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:30:10.916128: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:30:10.916410: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:30:11.342848: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:30:11.343014: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:30:11.343123: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:30:11.343306: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[0.49255595 0.507444  ]]
+C:\tmp\mnist_images\validate\181005_076_0.jpg
+2018-10-24 22:30:14.943153: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:30:15.088776: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:30:15.089042: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:30:15.483682: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:30:15.483855: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:30:15.483964: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:30:15.484141: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[0. 1.]]
+C:\tmp\mnist_images\validate\181005_077_0.jpg
+2018-10-24 22:30:19.059951: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:30:19.203302: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:30:19.203579: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:30:19.638910: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:30:19.639077: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:30:19.639192: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:30:19.639372: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[1]
+Result for output key probabilities:
+[[2.0230647e-21 1.0000000e+00]]
+C:\tmp\mnist_images\validate\181005_078_0.jpg
+2018-10-24 22:30:23.340584: I c:\users\user\source\repos\tensorflow\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-10-24 22:30:23.466554: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1356] Found device 0 with properties: 
+name: GeForce GTX 1080 major: 6 minor: 1 memoryClockRate(GHz): 1.8095
+pciBusID: 0000:01:00.0
+totalMemory: 8.00GiB freeMemory: 6.60GiB
+2018-10-24 22:30:23.466819: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1435] Adding visible gpu devices: 0
+2018-10-24 22:30:23.871911: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:923] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-24 22:30:23.872076: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:929]      0 
+2018-10-24 22:30:23.872187: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:942] 0:   N 
+2018-10-24 22:30:23.872364: I c:\users\user\source\repos\tensorflow\tensorflow\core\common_runtime\gpu\gpu_device.cc:1053] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 6380 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1080, pci bus id: 0000:01:00.0, compute capability: 6.1)
+Result for output key classes:
+[0]
+Result for output key probabilities:
+[[1.00000000e+00 1.19723755e-20]]
+C:\tmp\mnist_images\validate\181005_079_0.jpg
+
+Process finished with exit code 0
